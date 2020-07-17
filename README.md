@@ -4,4 +4,4 @@ RU: Делал я это в рамках предмета ООП. Алгорит
 
 ENG: I did this within the framework of the OOP subject. The algorithm is as follows, on the map there are plants of different species and different types of animals, including humans. They have their own food chain, each creature has its own diet, its own breeding cycle, speed and different times of hunger. If they are well-fed and ready to mate, then the nearest individuals go towards each other and reproduce. People are a little more complicated. If they find a mate, then they build a house, before building it, they check if there is a house nearby within a certain radius, if there is, then they are built next to it and thus settlements can be formed. People have a random number of children in the house and they go outside and start the same cycle as their parents. People also have a different attitude about food, if there are no animals and plants in the radius that they can eat, then they build farms, from where other people can then take food.
 
-[![Watch the video](https://www.youtube.com/watch?v=cK6oJhR4dRE&feature=emb_logo)
+VIDEO: https://www.youtube.com/watch?v=cK6oJhR4dRE&feature=emb_logo
